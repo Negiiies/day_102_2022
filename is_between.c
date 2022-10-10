@@ -5,6 +5,6 @@ int is_between (int low , int high , int nb )
     }
     return 0;
     if (low >= high){
-    return 0;
- }
+        return 0;
+    }
 }
